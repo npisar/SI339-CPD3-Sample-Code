@@ -1,0 +1,50 @@
+"""
+Mobile-First Design:
+Implement a mobile-first design strategy. Start with base styles for mobile devices and build upon those for larger screens later.
+Ensure all elements and content are optimized for mobile devices, providing a seamless and user-friendly experience.
+CSS Quality:
+Use efficient and clean CSS techniques to style the site.
+Ensure that CSS is well-commented, readable, and avoids repetitive code.
+
+Include innovative styling not seen in class, where possible.
+Examples may include:
+1. Responsive Table Design
+Scroll-friendly Tables: Use CSS to create horizontally scrollable tables that maintain their readability on smaller screens. Add fixed headers or sticky columns so that the athlete’s name or key identifiers stay visible while the user scrolls through the data.
+Table Reflow: Instead of scrolling, you can design tables that reflow into card-like layouts on mobile screens. Each row of data in the table would appear as a block of information, making it easier for users to browse on smaller devices.
+Alternating Row Colors: Add alternating background colors to rows to improve readability.
+2. Data Highlighting with Media Queries
+Priority Data on Mobile: Use media queries to hide less important columns and focus on key data points for smaller screens. This could ensure athletes’ names, ranks, and top stats are more prominently displayed.
+Collapsible Sections: Implement collapsible data sections that expand on click or tap for additional details. This keeps the mobile site clean and fast-loading while allowing users to access more information if needed.
+3. Dynamic Visualizations
+Progress Bars: Display athlete performance over time using CSS animated progress bars that adjust dynamically based on the underlying data.
+4. Sticky and Fixed Elements
+Sticky Headers: Create a sticky header with an athlete's name or event, which remains fixed as users scroll through a detailed stats section. This ensures key information stays visible.
+Floating Action Buttons (FABs): Add floating buttons that allow quick access to important actions like filtering or searching through data on the mobile site.
+5. Hover Effects and Transitions
+Touch-friendly Hover Effects: Mobile devices don’t have hover in the traditional sense, but you can use touch events to create hover-like effects. For example, touching an athlete’s name could reveal additional information or stats using smooth CSS transitions.
+Animated Section Transitions: When users switch between sections (e.g., team stats, individual athlete stats), use CSS animations to fade in new content or slide transitions to indicate movement between views.
+6. Custom Typography and Iconography
+Sport-Specific Icons: Use sport-related icons to represent different data points. For example, medals for wins, clocks for race times, or shoe icons for running-related stats.
+Font Pairing: Choose legible, modern fonts that scale well for mobile displays. Use responsive font-sizing techniques (e.g., clamp(), vw) to adjust font sizes based on screen size, maintaining readability across devices.
+7. Dark Mode / High Contrast Mode
+Dark Mode: Implement a dark mode toggle using CSS variables to adjust the color scheme, improving accessibility for users in low-light environments.
+High-Contrast Mode: Ensure the site has a high-contrast version for users who need better visual clarity, demonstrating your commitment to accessibility in mobile design.
+8. Image Optimization
+Athlete Profiles with Circular Images: Use CSS to display athlete profile pictures as circular images, with shadow or border effects that make them stand out. Implement object-fit to ensure images scale and crop properly on different devices.
+
+Incorporates Animations:
+Integrate animations using CSS (or JavaScript if you want to get ahead).
+Ensure animations enhance, rather than detract from, the user experience.
+Keep animations smooth and considerate of performance.
+
+Accessibility:
+Passes WAVE Validation: Ensure your site passes WAVE (Web Accessibility Evaluation Tool) validation.
+Passes aXe Validation: Ensure your site passes aXe accessibility checks.
+Addresses Prefers-Reduced Motion Media Query: Implement the prefers-reduced-motion media query to accommodate users who prefer reduced motion.
+Reacts to User Color Schemes: Ensure your site adapts to user-defined color schemes (e.g., dark mode, light mode).
+
+Overall Presentation and Clarity:
+Present your final deliverable in a professional and readable manner in a pdf form.  List each Rubric item and how you impletemented in..
+Ensure your work is well-organized and easy to navigate.
+Maintain clarity in all aspects of your design and documentation.
+"""

@@ -1,0 +1,10 @@
+CSS Reset: https://piccalil.li/blog/a-more-modern-css-reset/
+
+### Dark Mode ###
+Dark Mode GeeksForGeeks: https://www.geeksforgeeks.org/how-to-create-dark-light-mode-for-website-using-javascript-jquery/
+Dark Mode Css-Tricks: https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#aa-using-separate-stylesheets
+Dark Mode Reddit: https://www.reddit.com/r/Frontend/comments/rp4tkj/what_is_the_easiest_way_to_implement_dark_mode_in/
+Dark theme colors: https://m2.material.io/design/color/dark-theme.html#properties
+
+### Buttons ###
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_button_css
